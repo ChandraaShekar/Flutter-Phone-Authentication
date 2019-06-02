@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008244228660",
+    "firebase_url": "https://scrapto-test.firebaseio.com",
+    "project_id": "scrapto-test",
+    "storage_bucket": "scrapto-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008244228660:android:d1d53ead96d83aa3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008244228660-nbjabcfnvbe4ook9k7sqblu2h1mctanf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BaTb2TdmRMmdp5qfUs9cJJKCPwFIPNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008244228660-nbjabcfnvbe4ook9k7sqblu2h1mctanf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
